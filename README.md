@@ -114,5 +114,13 @@ GitHub workflows
 I enjoyed working on this assignment and gained valuable hands-on experience.
 
 Repository Link
-
 https://github.com/harsha0132/fynd-ai-intern-assignment
+
+User Dashboard 
+https://fynd-ai-intern-assignment-4pcxfsaxdycyo9o6w4th7e.streamlit.app/
+
+Admin Dashboard
+https://fynd-ai-intern-assignment-ttsjehtklkyqvhxmfuzbb7.streamlit.app/
+
+Project Report
+Included as reports.pdf in the repository.
