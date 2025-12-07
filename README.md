@@ -124,3 +124,5 @@ https://fynd-ai-intern-assignment-ttsjehtklkyqvhxmfuzbb7.streamlit.app/
 
 Project Report
 Included as reports.pdf in the repository.
+
+On the deployed version, the admin dashboard reads a seeded feedback.csv from the repository to demonstrate analytics, while the local version supports live updates from the user dashboard.
