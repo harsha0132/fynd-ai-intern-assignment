@@ -16,17 +16,16 @@ Both tasks were completed as described below.
 Project Structure
 fynd-ai-intern-assignment/
 │── task1/
-│   ├── task1_yelp_rating_prediction.ipynb
-│   └── yelp.csv
+│ └── rating_prediction.ipynb
 │
-│── task2_dashboard/
-│   ├── dashboard.py
-│   ├── user_dashboard.py
-│   ├── feedback.csv
-│   └── yelp.csv
+│── task2/
+│ ├── dashboard.py
+│ ├── user_dashboard.py
+│ ├── feedback.csv
+│ └── requirements.txt
 │
 │── screenshots/
-│   ├── (dashboard images)
+│ └── (dashboard images)
 │
 │── reports.pdf
 └── README.md
