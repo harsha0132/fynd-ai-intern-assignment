@@ -13,22 +13,26 @@ Task 2: Build Streamlit dashboards for users and admins
 
 Both tasks were completed as described below.
 
-Project Structure
+## Project Structure
+
+```
 fynd-ai-intern-assignment/
-│── task1/
-│ └── rating_prediction.ipynb
 │
-│── task2/
-│ ├── dashboard.py
-│ ├── user_dashboard.py
-│ ├── feedback.csv
-│ └── requirements.txt
+├── task1/
+│   └── rating_prediction.ipynb
 │
-│── screenshots/
-│ └── (dashboard images)
+├── task2/
+│   ├── dashboard.py
+│   ├── user_dashboard.py
+│   ├── feedback.csv
+│   └── requirements.txt
 │
-│── reports.pdf
+├── screenshots/
+│   └── (dashboard images)
+│
+├── reports.pdf
 └── README.md
+```
 
 Task 1 – Yelp Rating Prediction
 
